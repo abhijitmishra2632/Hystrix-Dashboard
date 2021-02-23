@@ -19,4 +19,4 @@ eureka:
     hostname: localhost
 spring :
   application :
-    name : Hystrix-Dshboard
+    name : hystrix-dashboard
